@@ -1,0 +1,5 @@
+patient,radius_avg,radius_largest,perimeter_avg,concave_points_largest
+Patient A,12,14,78,0.05
+Patient B,20,25,130,0.20
+Patient C,16,19,105,0.12
+Patient D,10,11,65,0.02
