@@ -1,6 +1,6 @@
 # Breast Cancer Diagnosis with Machine Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HaroldSaenz87/Breast-Cancer-ML/blob/main/breast_cancer_ml.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HaroldSaenz87/Breast-Cancer-ML/blob/main/breastCancer.ipynb)
 
 A machine learning project that predicts whether a breast tumor is **malignant** (cancerous) or **benign** (not cancerous) from measurements of cell nuclei in a tissue sample.
 
